@@ -1,0 +1,2360 @@
+[
+  {
+    "id": "BAT_1",
+    "name": "ViratKohli",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 177,
+      "runs": 5412,
+      "strikeRate": 131.61,
+      "average": 37.84
+    }
+  },
+  {
+    "id": "BAT_2",
+    "name": "Suresh Raina",
+    "role": "All-Rounder",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 193,
+      "runs": 5368,
+      "strikeRate": 137.14,
+      "average": 33.34,
+      "wickets": 25,
+      "economy": 7.38
+    }
+  },
+  {
+    "id": "BAT_3",
+    "name": "Rohit Sharma",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 188,
+      "runs": 4898,
+      "strikeRate": 130.82,
+      "average": 31.6
+    }
+  },
+  {
+    "id": "BAT_4",
+    "name": "David Warner",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 126,
+      "runs": 4706,
+      "strikeRate": 142.39,
+      "average": 43.17
+    }
+  },
+  {
+    "id": "BAT_5",
+    "name": "Shikhar Dhawan",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 159,
+      "runs": 4579,
+      "strikeRate": 124.8,
+      "average": 33.42
+    }
+  },
+  {
+    "id": "BAT_6",
+    "name": "Chris Gayle",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 125,
+      "runs": 4484,
+      "strikeRate": 151.02,
+      "average": 41.13
+    }
+  },
+  {
+    "id": "BAT_7",
+    "name": "MS Dhoni",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 190,
+      "runs": 4432,
+      "strikeRate": 137.85,
+      "average": 42.2
+    }
+  },
+  {
+    "id": "BAT_8",
+    "name": "Robin Uthappa",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 177,
+      "runs": 4411,
+      "strikeRate": 130.5,
+      "average": 28.83
+    }
+  },
+  {
+    "id": "BAT_9",
+    "name": "AB de Villiers",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 154,
+      "runs": 4395,
+      "strikeRate": 151.23,
+      "average": 39.95
+    }
+  },
+  {
+    "id": "BAT_10",
+    "name": "Gautam Gambhir",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 154,
+      "runs": 4217,
+      "strikeRate": 123.88,
+      "average": 31.23
+    }
+  },
+  {
+    "id": "BAT_11",
+    "name": "Ajinkya Rahane",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 140,
+      "runs": 3820,
+      "strikeRate": 121.92,
+      "average": 32.93
+    }
+  },
+  {
+    "id": "BAT_12",
+    "name": "Dinesh Karthik",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 182,
+      "runs": 3654,
+      "strikeRate": 129.8,
+      "average": 27.06
+    }
+  },
+  {
+    "id": "BAT_13",
+    "name": "Shane Watson",
+    "role": "All-Rounder",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 134,
+      "runs": 3575,
+      "strikeRate": 139.53,
+      "average": 31.08,
+      "wickets": 92,
+      "economy": 7.93
+    }
+  },
+  {
+    "id": "BAT_14",
+    "name": "Ambati Rayudu",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 147,
+      "runs": 3300,
+      "strikeRate": 125.95,
+      "average": 28.69
+    }
+  },
+  {
+    "id": "BAT_15",
+    "name": "Yusuf Pathan",
+    "role": "All-Rounder",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 174,
+      "runs": 3204,
+      "strikeRate": 142.97,
+      "average": 29.12,
+      "wickets": 42,
+      "economy": 7.4
+    }
+  },
+  {
+    "id": "BAT_16",
+    "name": "Brendon McCullum",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 109,
+      "runs": 2880,
+      "strikeRate": 131.74,
+      "average": 27.69
+    }
+  },
+  {
+    "id": "BAT_17",
+    "name": "Parthiv Patel",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 139,
+      "runs": 2848,
+      "strikeRate": 120.78,
+      "average": 22.6
+    }
+  },
+  {
+    "id": "BAT_18",
+    "name": "Manish Pandey",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 130,
+      "runs": 2843,
+      "strikeRate": 120.82,
+      "average": 29.3
+    }
+  },
+  {
+    "id": "BAT_19",
+    "name": "Kieron Pollard",
+    "role": "All-Rounder",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 148,
+      "runs": 2755,
+      "strikeRate": 146.77,
+      "average": 28.69,
+      "wickets": 56,
+      "economy": 8.85
+    }
+  },
+  {
+    "id": "BAT_20",
+    "name": "Yuvraj Singh",
+    "role": "All-Rounder",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 132,
+      "runs": 2750,
+      "strikeRate": 129.71,
+      "average": 24.77,
+      "wickets": 36,
+      "economy": 7.43
+    }
+  },
+  {
+    "id": "BAT_21",
+    "name": "Virender Sehwag",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 104,
+      "runs": 2728,
+      "strikeRate": 155.44,
+      "average": 27.55
+    }
+  },
+  {
+    "id": "BAT_22",
+    "name": "Murali Vijay",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 103,
+      "runs": 2587,
+      "strikeRate": 122.83,
+      "average": 26.39
+    }
+  },
+  {
+    "id": "BAT_23",
+    "name": "Shaun Marsh",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 71,
+      "runs": 2477,
+      "strikeRate": 132.74,
+      "average": 39.95
+    }
+  },
+  {
+    "id": "BAT_24",
+    "name": "Jacques Kallis",
+    "role": "All-Rounder",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 98,
+      "runs": 2427,
+      "strikeRate": 109.22,
+      "average": 28.55,
+      "wickets": 65,
+      "economy": 7.89
+    }
+  },
+  {
+    "id": "BAT_25",
+    "name": "Dwayne Smith",
+    "role": "All-Rounder",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 91,
+      "runs": 2385,
+      "strikeRate": 135.2,
+      "average": 28.39,
+      "wickets": 26,
+      "economy": 9.01
+    }
+  },
+  {
+    "id": "BAT_26",
+    "name": "Sachin Tendulkar",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 78,
+      "runs": 2334,
+      "strikeRate": 119.81,
+      "average": 34.83
+    }
+  },
+  {
+    "id": "BAT_27",
+    "name": "Sanju Samson",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 93,
+      "runs": 2209,
+      "strikeRate": 130.24,
+      "average": 27.61
+    }
+  },
+  {
+    "id": "BAT_28",
+    "name": "Rahul Dravid",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 89,
+      "runs": 2174,
+      "strikeRate": 115.51,
+      "average": 28.23
+    }
+  },
+  {
+    "id": "BAT_29",
+    "name": "Adam Gilchrist",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 80,
+      "runs": 2069,
+      "strikeRate": 138.39,
+      "average": 27.22
+    }
+  },
+  {
+    "id": "BAT_30",
+    "name": "JP Duminy",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 83,
+      "runs": 2029,
+      "strikeRate": 124.02,
+      "average": 39.78
+    }
+  },
+  {
+    "id": "BAT_31",
+    "name": "Steve Smith",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 81,
+      "runs": 2022,
+      "strikeRate": 128.95,
+      "average": 37.44
+    }
+  },
+  {
+    "id": "BAT_32",
+    "name": "KL Rahul",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 67,
+      "runs": 1977,
+      "strikeRate": 138.15,
+      "average": 42.06
+    }
+  },
+  {
+    "id": "BAT_33",
+    "name": "Michael Hussey",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 59,
+      "runs": 1977,
+      "strikeRate": 122.64,
+      "average": 38.76
+    }
+  },
+  {
+    "id": "BAT_34",
+    "name": "Ravindra Jadeja",
+    "role": "All-Rounder",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 170,
+      "runs": 1927,
+      "strikeRate": 122.58,
+      "average": 24.08,
+      "wickets": 108,
+      "economy": 7.57
+    }
+  },
+  {
+    "id": "BAT_35",
+    "name": "Faf du Plessis",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 71,
+      "runs": 1853,
+      "strikeRate": 126.74,
+      "average": 31.4
+    }
+  },
+  {
+    "id": "BAT_36",
+    "name": "David Miller",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 79,
+      "runs": 1850,
+      "strikeRate": 138.78,
+      "average": 34.25
+    }
+  },
+  {
+    "id": "BAT_37",
+    "name": "Mahela Jayawardene",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 80,
+      "runs": 1802,
+      "strikeRate": 123.25,
+      "average": 28.6
+    }
+  },
+  {
+    "id": "BAT_38",
+    "name": "Wriddhiman Saha",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 120,
+      "runs": 1765,
+      "strikeRate": 131.12,
+      "average": 23.85
+    }
+  },
+  {
+    "id": "BAT_39",
+    "name": "Aaron Finch",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 75,
+      "runs": 1737,
+      "strikeRate": 130.69,
+      "average": 26.31
+    }
+  },
+  {
+    "id": "BAT_40",
+    "name": "Rishabh Pant",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 54,
+      "runs": 1736,
+      "strikeRate": 162.69,
+      "average": 36.16
+    }
+  },
+  {
+    "id": "BAT_41",
+    "name": "Manoj Tiwary",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 98,
+      "runs": 1695,
+      "strikeRate": 116.97,
+      "average": 28.72
+    }
+  },
+  {
+    "id": "BAT_42",
+    "name": "Kumar Sangakkara",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 71,
+      "runs": 1687,
+      "strikeRate": 121.19,
+      "average": 25.95
+    }
+  },
+  {
+    "id": "BAT_43",
+    "name": "Shreyas Iyer",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 62,
+      "runs": 1681,
+      "strikeRate": 126.96,
+      "average": 30.56
+    }
+  },
+  {
+    "id": "BAT_44",
+    "name": "Naman Ojha",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 113,
+      "runs": 1554,
+      "strikeRate": 118.35,
+      "average": 20.72
+    }
+  },
+  {
+    "id": "BAT_45",
+    "name": "Suryakumar Yadav",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 85,
+      "runs": 1548,
+      "strikeRate": 131.96,
+      "average": 28.14
+    }
+  },
+  {
+    "id": "BAT_46",
+    "name": "Mandeep Singh",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 97,
+      "runs": 1529,
+      "strikeRate": 124.71,
+      "average": 22.15
+    }
+  },
+  {
+    "id": "BAT_47",
+    "name": "Dwayne Bravo",
+    "role": "All-Rounder",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 134,
+      "runs": 1483,
+      "strikeRate": 128.28,
+      "average": 23.17,
+      "wickets": 147,
+      "economy": 8.39
+    }
+  },
+  {
+    "id": "BAT_48",
+    "name": "Karun Nair",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 69,
+      "runs": 1464,
+      "strikeRate": 128.53,
+      "average": 24.81
+    }
+  },
+  {
+    "id": "BAT_49",
+    "name": "Quinton de Kock",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 50,
+      "runs": 1456,
+      "strikeRate": 131.28,
+      "average": 30.33
+    }
+  },
+  {
+    "id": "BAT_50",
+    "name": "Subramaniam Badrinath",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 95,
+      "runs": 1441,
+      "strikeRate": 118.89,
+      "average": 30.65
+    }
+  },
+  {
+    "id": "BAT_51",
+    "name": "Brad Hodge",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 66,
+      "runs": 1400,
+      "strikeRate": 125.22,
+      "average": 33.33
+    }
+  },
+  {
+    "id": "BAT_52",
+    "name": "Andre Russell",
+    "role": "All-Rounder",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 64,
+      "runs": 1400,
+      "strikeRate": 186.41,
+      "average": 33.33,
+      "wickets": 55,
+      "economy": 8.88
+    }
+  },
+  {
+    "id": "BAT_53",
+    "name": "Glenn Maxwell",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 69,
+      "runs": 1397,
+      "strikeRate": 161.13,
+      "average": 22.9
+    }
+  },
+  {
+    "id": "BAT_54",
+    "name": "Jos Buttler",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 45,
+      "runs": 1386,
+      "strikeRate": 150.81,
+      "average": 35.53
+    }
+  },
+  {
+    "id": "BAT_55",
+    "name": "Sourav Ganguly",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 59,
+      "runs": 1349,
+      "strikeRate": 106.8,
+      "average": 25.45
+    }
+  },
+  {
+    "id": "BAT_56",
+    "name": "David Hussey",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 64,
+      "runs": 1322,
+      "strikeRate": 122.97,
+      "average": 26.97
+    }
+  },
+  {
+    "id": "BAT_57",
+    "name": "Kane Williamson",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 41,
+      "runs": 1302,
+      "strikeRate": 135.06,
+      "average": 38.29
+    }
+  },
+  {
+    "id": "BAT_58",
+    "name": "Chris Lynn",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 41,
+      "runs": 1280,
+      "strikeRate": 140.65,
+      "average": 33.68
+    }
+  },
+  {
+    "id": "BAT_59",
+    "name": "Saurabh Tiwary",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 81,
+      "runs": 1276,
+      "strikeRate": 119.58,
+      "average": 28.35
+    }
+  },
+  {
+    "id": "BAT_60",
+    "name": "Mayank Agarwal",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 77,
+      "runs": 1266,
+      "strikeRate": 128.13,
+      "average": 18.34
+    }
+  },
+  {
+    "id": "BAT_61",
+    "name": "Tillakaratne Dilshan",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 52,
+      "runs": 1153,
+      "strikeRate": 114.49,
+      "average": 26.81
+    }
+  },
+  {
+    "id": "BAT_62",
+    "name": "Irfan Pathan",
+    "role": "All-Rounder",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 103,
+      "runs": 1139,
+      "strikeRate": 120.4,
+      "average": 21.49,
+      "wickets": 80,
+      "economy": 7.77
+    }
+  },
+  {
+    "id": "BAT_63",
+    "name": "Matthew Hayden",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 32,
+      "runs": 1107,
+      "strikeRate": 137.51,
+      "average": 36.9
+    }
+  },
+  {
+    "id": "BAT_64",
+    "name": "Nitish Rana",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 46,
+      "runs": 1085,
+      "strikeRate": 134.61,
+      "average": 29.32
+    }
+  },
+  {
+    "id": "BAT_65",
+    "name": "Kedar Jadhav",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 79,
+      "runs": 1079,
+      "strikeRate": 126.49,
+      "average": 22.95
+    }
+  },
+  {
+    "id": "BAT_66",
+    "name": "Lendl Simmons",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 29,
+      "runs": 1079,
+      "strikeRate": 126.64,
+      "average": 39.96
+    }
+  },
+  {
+    "id": "BAT_67",
+    "name": "Hardik Pandya",
+    "role": "All-Rounder",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 66,
+      "runs": 1068,
+      "strikeRate": 154.78,
+      "average": 28.86,
+      "wickets": 42,
+      "economy": 9.06
+    }
+  },
+  {
+    "id": "BAT_68",
+    "name": "Ross Taylor",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 55,
+      "runs": 1017,
+      "strikeRate": 123.72,
+      "average": 25.42
+    }
+  },
+  {
+    "id": "BAT_69",
+    "name": "Manan Vohra",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 49,
+      "runs": 1012,
+      "strikeRate": 131.77,
+      "average": 23.53
+    }
+  },
+  {
+    "id": "BAT_70",
+    "name": "Kevin Pietersen",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 36,
+      "runs": 1001,
+      "strikeRate": 134.72,
+      "average": 37.07
+    }
+  },
+  {
+    "id": "BAT_71",
+    "name": "Venugopal Rao",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 65,
+      "runs": 985,
+      "strikeRate": 117.82,
+      "average": 22.38
+    }
+  },
+  {
+    "id": "BAT_72",
+    "name": "Albie Morkel",
+    "role": "All-Rounder",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 91,
+      "runs": 974,
+      "strikeRate": 141.98,
+      "average": 24.35,
+      "wickets": 85,
+      "economy": 8.2
+    }
+  },
+  {
+    "id": "BAT_73",
+    "name": "Andrew Symonds",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 39,
+      "runs": 974,
+      "strikeRate": 129.86,
+      "average": 36.07
+    }
+  },
+  {
+    "id": "BAT_74",
+    "name": "Moises Henriques",
+    "role": "All-Rounder",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 57,
+      "runs": 969,
+      "strikeRate": 128.17,
+      "average": 28.5,
+      "wickets": 38,
+      "economy": 8.38
+    }
+  },
+  {
+    "id": "BAT_75",
+    "name": "Cameron White",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 47,
+      "runs": 954,
+      "strikeRate": 126.35,
+      "average": 26.5
+    }
+  },
+  {
+    "id": "BAT_76",
+    "name": "Krunal Pandya",
+    "role": "All-Rounder",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 55,
+      "runs": 891,
+      "strikeRate": 146.06,
+      "average": 26.2,
+      "wickets": 40,
+      "economy": 7.16
+    }
+  },
+  {
+    "id": "BAT_77",
+    "name": "Herschelle Gibbs",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 36,
+      "runs": 886,
+      "strikeRate": 109.78,
+      "average": 27.68
+    }
+  },
+  {
+    "id": "BAT_78",
+    "name": "Stuart Binny",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 95,
+      "runs": 880,
+      "strikeRate": 128.84,
+      "average": 19.55
+    }
+  },
+  {
+    "id": "BAT_79",
+    "name": "Eoin Morgan",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 52,
+      "runs": 854,
+      "strikeRate": 121.13,
+      "average": 21.35
+    }
+  },
+  {
+    "id": "BAT_80",
+    "name": "Harbhajan Singh",
+    "role": "All-Rounder",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 160,
+      "runs": 829,
+      "strikeRate": 138.16,
+      "average": 15.64,
+      "wickets": 150,
+      "economy": 7.05
+    }
+  },
+  {
+    "id": "BAT_81",
+    "name": "Manvinder Bisla",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 39,
+      "runs": 798,
+      "strikeRate": 113.67,
+      "average": 21
+    }
+  },
+  {
+    "id": "BAT_82",
+    "name": "Axar Patel",
+    "role": "All-Rounder",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 82,
+      "runs": 796,
+      "strikeRate": 126.34,
+      "average": 18.95,
+      "wickets": 71,
+      "economy": 7.45
+    }
+  },
+  {
+    "id": "BAT_83",
+    "name": "Sanath Jayasuriya",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 30,
+      "runs": 772,
+      "strikeRate": 145.11,
+      "average": 27.57
+    }
+  },
+  {
+    "id": "BAT_84",
+    "name": "Sunil Narine",
+    "role": "All-Rounder",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 110,
+      "runs": 771,
+      "strikeRate": 168.34,
+      "average": 17.52,
+      "wickets": 122,
+      "economy": 6.67
+    }
+  },
+  {
+    "id": "BAT_85",
+    "name": "Rahul Tripathi",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 34,
+      "runs": 758,
+      "strikeRate": 137.31,
+      "average": 26.13
+    }
+  },
+  {
+    "id": "BAT_86",
+    "name": "Shakib Al Hasan",
+    "role": "All-Rounder",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 63,
+      "runs": 746,
+      "strikeRate": 126.65,
+      "average": 21.31,
+      "wickets": 59,
+      "economy": 7.46
+    }
+  },
+  {
+    "id": "BAT_87",
+    "name": "Graeme Smith",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 29,
+      "runs": 739,
+      "strikeRate": 110.62,
+      "average": 28.42
+    }
+  },
+  {
+    "id": "BAT_88",
+    "name": "Angelo Mathews",
+    "role": "All-Rounder",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 49,
+      "runs": 724,
+      "strikeRate": 125.91,
+      "average": 23.35,
+      "wickets": 27,
+      "economy": 8.18
+    }
+  },
+  {
+    "id": "BAT_89",
+    "name": "Ishan Kishan",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 37,
+      "runs": 695,
+      "strikeRate": 130.88,
+      "average": 21.06
+    }
+  },
+  {
+    "id": "BAT_90",
+    "name": "Tirumalasetti Suman",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 43,
+      "runs": 676,
+      "strikeRate": 117.56,
+      "average": 21.12
+    }
+  },
+  {
+    "id": "BAT_91",
+    "name": "Abhishek Nayar",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 60,
+      "runs": 672,
+      "strikeRate": 116.46,
+      "average": 17.68
+    }
+  },
+  {
+    "id": "BAT_92",
+    "name": "George Bailey",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 40,
+      "runs": 663,
+      "strikeRate": 121.87,
+      "average": 24.55
+    }
+  },
+  {
+    "id": "BAT_93",
+    "name": "Ben Stokes",
+    "role": "All-Rounder",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 34,
+      "runs": 635,
+      "strikeRate": 132.01,
+      "average": 22.67,
+      "wickets": 26,
+      "economy": 8.25
+    }
+  },
+  {
+    "id": "BAT_94",
+    "name": "Jesse Ryder",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 29,
+      "runs": 604,
+      "strikeRate": 131.87,
+      "average": 21.57
+    }
+  },
+  {
+    "id": "BAT_95",
+    "name": "Prithvi Shaw",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 25,
+      "runs": 598,
+      "strikeRate": 141.03,
+      "average": 23.92
+    }
+  },
+  {
+    "id": "BAT_96",
+    "name": "Piyush Chawla",
+    "role": "All-Rounder",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 157,
+      "runs": 584,
+      "strikeRate": 111.45,
+      "average": 11.91,
+      "wickets": 150,
+      "economy": 7.82
+    }
+  },
+  {
+    "id": "BAT_97",
+    "name": "Hashim Amla",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 16,
+      "runs": 577,
+      "strikeRate": 141.76,
+      "average": 44.38
+    }
+  },
+  {
+    "id": "BAT_98",
+    "name": "Vijay Shankar",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 33,
+      "runs": 557,
+      "strikeRate": 133.89,
+      "average": 30.94
+    }
+  },
+  {
+    "id": "BAT_99",
+    "name": "Corey Anderson",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 30,
+      "runs": 538,
+      "strikeRate": 127.18,
+      "average": 24.45
+    }
+  },
+  {
+    "id": "BAT_100",
+    "name": "Ravi Bopara",
+    "role": "Batsman",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 24,
+      "runs": 531,
+      "strikeRate": 117.21,
+      "average": 29.5
+    }
+  },
+  {
+    "id": "BOWL_1",
+    "name": "LasithMalinga",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 122,
+      "wickets": 170,
+      "economy": 7.14,
+      "average": 19.8
+    }
+  },
+  {
+    "id": "BOWL_2",
+    "name": "Amit Mishra",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 147,
+      "wickets": 157,
+      "economy": 7.35,
+      "average": 24.19
+    }
+  },
+  {
+    "id": "BOWL_6",
+    "name": "Bhuvneshwar Kumar",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 117,
+      "wickets": 133,
+      "economy": 7.24,
+      "average": 23.71
+    }
+  },
+  {
+    "id": "BOWL_7",
+    "name": "Ravichandran Ashwin",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 139,
+      "wickets": 125,
+      "economy": 6.79,
+      "average": 26.48
+    }
+  },
+  {
+    "id": "BOWL_9",
+    "name": "Umesh Yadav",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 119,
+      "wickets": 119,
+      "economy": 8.45,
+      "average": 29.37
+    }
+  },
+  {
+    "id": "BOWL_11",
+    "name": "Ashish Nehra",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 88,
+      "wickets": 106,
+      "economy": 7.84,
+      "average": 23.53
+    }
+  },
+  {
+    "id": "BOWL_12",
+    "name": "Vinay Kumar",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 105,
+      "wickets": 105,
+      "economy": 8.39,
+      "average": 28.24
+    }
+  },
+  {
+    "id": "BOWL_13",
+    "name": "Zaheer Khan",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 100,
+      "wickets": 102,
+      "economy": 7.58,
+      "average": 27.27
+    }
+  },
+  {
+    "id": "BOWL_14",
+    "name": "Yuzvendra Chahal",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 84,
+      "wickets": 100,
+      "economy": 7.78,
+      "average": 23.18
+    }
+  },
+  {
+    "id": "BOWL_15",
+    "name": "Dale Steyn",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 92,
+      "wickets": 96,
+      "economy": 6.76,
+      "average": 24.73
+    }
+  },
+  {
+    "id": "BOWL_16",
+    "name": "Sandeep Sharma",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 79,
+      "wickets": 95,
+      "economy": 7.81,
+      "average": 23.91
+    }
+  },
+  {
+    "id": "BOWL_18",
+    "name": "Mohit Sharma",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 85,
+      "wickets": 91,
+      "economy": 8.41,
+      "average": 26.64
+    }
+  },
+  {
+    "id": "BOWL_19",
+    "name": "Praveen Kumar",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 119,
+      "wickets": 90,
+      "economy": 7.72,
+      "average": 36.12
+    }
+  },
+  {
+    "id": "BOWL_20",
+    "name": "RP Singh",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 82,
+      "wickets": 90,
+      "economy": 7.9,
+      "average": 25.97
+    }
+  },
+  {
+    "id": "BOWL_21",
+    "name": "Pragyan Ojha",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 92,
+      "wickets": 89,
+      "economy": 7.36,
+      "average": 26.2
+    }
+  },
+  {
+    "id": "BOWL_22",
+    "name": "Dhawal Kulkarni",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 90,
+      "wickets": 86,
+      "economy": 8.26,
+      "average": 27.95
+    }
+  },
+  {
+    "id": "BOWL_24",
+    "name": "Jasprit Bumrah",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 77,
+      "wickets": 82,
+      "economy": 7.55,
+      "average": 26.59
+    }
+  },
+  {
+    "id": "BOWL_26",
+    "name": "Imran Tahir",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 55,
+      "wickets": 79,
+      "economy": 7.88,
+      "average": 20.39
+    }
+  },
+  {
+    "id": "BOWL_27",
+    "name": "Morne Morkel",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 70,
+      "wickets": 77,
+      "economy": 7.69,
+      "average": 27.12
+    }
+  },
+  {
+    "id": "BOWL_28",
+    "name": "Jaydev Unadkat",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 73,
+      "wickets": 77,
+      "economy": 8.73,
+      "average": 28.46
+    }
+  },
+  {
+    "id": "BOWL_29",
+    "name": "Lakshmipathy Balaji",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 73,
+      "wickets": 76,
+      "economy": 8.05,
+      "average": 26.68
+    }
+  },
+  {
+    "id": "BOWL_30",
+    "name": "Munaf Patel",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 63,
+      "wickets": 74,
+      "economy": 7.51,
+      "average": 22.94
+    }
+  },
+  {
+    "id": "BOWL_31",
+    "name": "Ishant Sharma",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 89,
+      "wickets": 72,
+      "economy": 8.09,
+      "average": 35.83
+    }
+  },
+  {
+    "id": "BOWL_32",
+    "name": "Rajat Bhatia",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 95,
+      "wickets": 71,
+      "economy": 7.4,
+      "average": 28.45
+    }
+  },
+  {
+    "id": "BOWL_34",
+    "name": "Mitchell McClenaghan",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 56,
+      "wickets": 71,
+      "economy": 8.49,
+      "average": 25.39
+    }
+  },
+  {
+    "id": "BOWL_35",
+    "name": "Chris Morris",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 61,
+      "wickets": 69,
+      "economy": 7.98,
+      "average": 24.76
+    }
+  },
+  {
+    "id": "BOWL_36",
+    "name": "Ashok Dinda",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 78,
+      "wickets": 68,
+      "economy": 8.22,
+      "average": 30.45
+    }
+  },
+  {
+    "id": "BOWL_37",
+    "name": "Siddharth Trivedi",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 76,
+      "wickets": 65,
+      "economy": 7.58,
+      "average": 29.29
+    }
+  },
+  {
+    "id": "BOWL_39",
+    "name": "Muttiah Muralitharan",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 66,
+      "wickets": 63,
+      "economy": 6.67,
+      "average": 26.92
+    }
+  },
+  {
+    "id": "BOWL_40",
+    "name": "Mitchell Johnson",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 54,
+      "wickets": 61,
+      "economy": 8.28,
+      "average": 27.9
+    }
+  },
+  {
+    "id": "BOWL_42",
+    "name": "James Faulkner",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 60,
+      "wickets": 59,
+      "economy": 8.69,
+      "average": 30.13
+    }
+  },
+  {
+    "id": "BOWL_43",
+    "name": "Shane Warne",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 55,
+      "wickets": 57,
+      "economy": 7.27,
+      "average": 25.38
+    }
+  },
+  {
+    "id": "BOWL_45",
+    "name": "Rashid Khan",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 46,
+      "wickets": 55,
+      "economy": 6.55,
+      "average": 21.69
+    }
+  },
+  {
+    "id": "BOWL_47",
+    "name": "Karn Sharma",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 62,
+      "wickets": 54,
+      "economy": 7.82,
+      "average": 26.75
+    }
+  },
+  {
+    "id": "BOWL_48",
+    "name": "Siddarth Kaul",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 45,
+      "wickets": 49,
+      "economy": 8.47,
+      "average": 28.26
+    }
+  },
+  {
+    "id": "BOWL_49",
+    "name": "Shadab Jakati",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 59,
+      "wickets": 47,
+      "economy": 8.01,
+      "average": 30.85
+    }
+  },
+  {
+    "id": "BOWL_50",
+    "name": "Anil Kumble",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 42,
+      "wickets": 45,
+      "economy": 6.57,
+      "average": 23.51
+    }
+  },
+  {
+    "id": "BOWL_51",
+    "name": "Ryan Harris",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 37,
+      "wickets": 45,
+      "economy": 7.55,
+      "average": 23.26
+    }
+  },
+  {
+    "id": "BOWL_52",
+    "name": "Sreenath Aravind",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 38,
+      "wickets": 45,
+      "economy": 8.2,
+      "average": 23.08
+    }
+  },
+  {
+    "id": "BOWL_53",
+    "name": "Harshal Patel",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 43,
+      "wickets": 43,
+      "economy": 8.72,
+      "average": 28.25
+    }
+  },
+  {
+    "id": "BOWL_55",
+    "name": "Shahbaz Nadeem",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 64,
+      "wickets": 42,
+      "economy": 7.48,
+      "average": 37.38
+    }
+  },
+  {
+    "id": "BOWL_56",
+    "name": "Varun Aaron",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 47,
+      "wickets": 42,
+      "economy": 8.74,
+      "average": 31.78
+    }
+  },
+  {
+    "id": "BOWL_58",
+    "name": "Rahul Sharma",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 44,
+      "wickets": 40,
+      "economy": 7.02,
+      "average": 27.15
+    }
+  },
+  {
+    "id": "BOWL_60",
+    "name": "Iqbal Abdulla",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 49,
+      "wickets": 40,
+      "economy": 7.23,
+      "average": 27.72
+    }
+  },
+  {
+    "id": "BOWL_61",
+    "name": "Shanthakumaran Sreesanth",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 44,
+      "wickets": 40,
+      "economy": 8.14,
+      "average": 29.85
+    }
+  },
+  {
+    "id": "BOWL_62",
+    "name": "Mohammad Shami",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 51,
+      "wickets": 40,
+      "economy": 8.99,
+      "average": 38.67
+    }
+  },
+  {
+    "id": "BOWL_63",
+    "name": "Parvinder Awana",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 33,
+      "wickets": 39,
+      "economy": 8.26,
+      "average": 26.38
+    }
+  },
+  {
+    "id": "BOWL_64",
+    "name": "Andrew Tye",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 26,
+      "wickets": 39,
+      "economy": 8.3,
+      "average": 21.07
+    }
+  },
+  {
+    "id": "BOWL_65",
+    "name": "Kuldeep Yadav",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 40,
+      "wickets": 39,
+      "economy": 8.33,
+      "average": 29.33
+    }
+  },
+  {
+    "id": "BOWL_66",
+    "name": "Shreyas Gopal",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 31,
+      "wickets": 38,
+      "economy": 7.5,
+      "average": 19.39
+    }
+  },
+  {
+    "id": "BOWL_68",
+    "name": "Trent Boult",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 33,
+      "wickets": 38,
+      "economy": 8.78,
+      "average": 29.47
+    }
+  },
+  {
+    "id": "BOWL_69",
+    "name": "Doug Bollinger",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 27,
+      "wickets": 37,
+      "economy": 7.21,
+      "average": 18.72
+    }
+  },
+  {
+    "id": "BOWL_70",
+    "name": "Manpreet Gony",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 44,
+      "wickets": 37,
+      "economy": 8.69,
+      "average": 34.78
+    }
+  },
+  {
+    "id": "BOWL_72",
+    "name": "Nathan Coulter-Nile",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 26,
+      "wickets": 36,
+      "economy": 7.66,
+      "average": 19.97
+    }
+  },
+  {
+    "id": "BOWL_73",
+    "name": "Shardul Thakur",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 36,
+      "wickets": 36,
+      "economy": 9.03,
+      "average": 29.58
+    }
+  },
+  {
+    "id": "BOWL_74",
+    "name": "Pradeep Sangwan",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 39,
+      "wickets": 35,
+      "economy": 8.79,
+      "average": 33.57
+    }
+  },
+  {
+    "id": "BOWL_75",
+    "name": "Mitchell Starc",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 27,
+      "wickets": 34,
+      "economy": 7.16,
+      "average": 20.38
+    }
+  },
+  {
+    "id": "BOWL_76",
+    "name": "Pawan Negi",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 50,
+      "wickets": 34,
+      "economy": 7.86,
+      "average": 27.61
+    }
+  },
+  {
+    "id": "BOWL_77",
+    "name": "Dan Christian",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 40,
+      "wickets": 34,
+      "economy": 7.94,
+      "average": 30.5
+    }
+  },
+  {
+    "id": "BOWL_78",
+    "name": "Deepak Chahar",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 34,
+      "wickets": 33,
+      "economy": 7.63,
+      "average": 26.51
+    }
+  },
+  {
+    "id": "BOWL_79",
+    "name": "Kevon Cooper",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 25,
+      "wickets": 33,
+      "economy": 7.88,
+      "average": 22.93
+    }
+  },
+  {
+    "id": "BOWL_80",
+    "name": "Murali Kartik",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 56,
+      "wickets": 31,
+      "economy": 7.24,
+      "average": 44.77
+    }
+  },
+  {
+    "id": "BOWL_81",
+    "name": "Kagiso Rabada",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 18,
+      "wickets": 31,
+      "economy": 8.13,
+      "average": 17.93
+    }
+  },
+  {
+    "id": "BOWL_82",
+    "name": "Thisara Perera",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 37,
+      "wickets": 31,
+      "economy": 8.73,
+      "average": 32.77
+    }
+  },
+  {
+    "id": "BOWL_83",
+    "name": "Azhar Mahmood",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 23,
+      "wickets": 29,
+      "economy": 7.82,
+      "average": 24.13
+    }
+  },
+  {
+    "id": "BOWL_84",
+    "name": "Ajit Agarkar",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 42,
+      "wickets": 29,
+      "economy": 8.83,
+      "average": 39.68
+    }
+  },
+  {
+    "id": "BOWL_85",
+    "name": "Daniel Vettori",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 34,
+      "wickets": 28,
+      "economy": 6.78,
+      "average": 31.39
+    }
+  },
+  {
+    "id": "BOWL_86",
+    "name": "Dirk Nannes",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 29,
+      "wickets": 28,
+      "economy": 7.29,
+      "average": 28.03
+    }
+  },
+  {
+    "id": "BOWL_87",
+    "name": "Pravin Tambe",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 33,
+      "wickets": 28,
+      "economy": 7.75,
+      "average": 30.46
+    }
+  },
+  {
+    "id": "BOWL_88",
+    "name": "Amit Singh",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 23,
+      "wickets": 28,
+      "economy": 7.86,
+      "average": 22.14
+    }
+  },
+  {
+    "id": "BOWL_89",
+    "name": "Tim Southee",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 200,
+    "stats": {
+      "matches": 40,
+      "wickets": 28,
+      "economy": 8.73,
+      "average": 46.17
+    }
+  },
+  {
+    "id": "BOWL_90",
+    "name": "Mohammed Siraj",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 26,
+      "wickets": 28,
+      "economy": 9.2,
+      "average": 30.28
+    }
+  },
+  {
+    "id": "BOWL_91",
+    "name": "MF Maharoof",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 20,
+      "wickets": 27,
+      "economy": 7.42,
+      "average": 19.25
+    }
+  },
+  {
+    "id": "BOWL_93",
+    "name": "Wayne Parnell",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 26,
+      "wickets": 26,
+      "economy": 7.35,
+      "average": 26.96
+    }
+  },
+  {
+    "id": "BOWL_94",
+    "name": "Jofra Archer",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 21,
+      "wickets": 26,
+      "economy": 7.52,
+      "average": 23.69
+    }
+  },
+  {
+    "id": "BOWL_97",
+    "name": "Johan Botha",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 150,
+    "stats": {
+      "matches": 34,
+      "wickets": 25,
+      "economy": 6.91,
+      "average": 32
+    }
+  },
+  {
+    "id": "BOWL_99",
+    "name": "Brett Lee",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 100,
+    "stats": {
+      "matches": 38,
+      "wickets": 25,
+      "economy": 7.5,
+      "average": 43.8
+    }
+  },
+  {
+    "id": "BOWL_100",
+    "name": "Harmeet Singh Bansal",
+    "role": "Bowler",
+    "country": "Unknown",
+    "basePrice": 50,
+    "stats": {
+      "matches": 27,
+      "wickets": 25,
+      "economy": 7.97,
+      "average": 26.96
+    }
+  }
+]
